@@ -9,7 +9,7 @@ import android.view.MenuItem;
 public class MainActivity extends ActionBarActivity {
     private int iiii;
 
-    private int jjj;
+
 
 
     @Override
