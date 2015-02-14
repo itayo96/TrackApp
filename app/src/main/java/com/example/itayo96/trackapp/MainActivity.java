@@ -8,7 +8,8 @@ import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
     private int iiii;
-//    hello
+
+    private int jjj;
 
 
     @Override
