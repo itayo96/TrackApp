@@ -11,6 +11,8 @@ public class MainActivity extends ActionBarActivity {
 
     private int jjj;
 //    hello
+    private String ij;
+    public Byte i;
 
 
 
